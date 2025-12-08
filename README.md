@@ -1,1 +1,1 @@
-# Ransomeware.py
+# Ransomeware
